@@ -9,6 +9,8 @@ Welcome to Spotify iOS SDK! This ReadMe is for people who wish to develop iOS
 applications containing Spotify-related functionality, such as audio streaming,
 playlist manipulation, searching and more.
 
+Usage of this SDK is bound under the [Libspotify Terms of Use](https://developer.spotify.com/technologies/libspotify/terms-of-use-us/).
+
 
 Beta Release Information
 =======
